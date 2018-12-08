@@ -5,4 +5,6 @@ fun main(args:Array<String>){
     p.printName()
 
     val order: InitOrderDemo = InitOrderDemo("Hello")
+
+    val myView: MyView = MyView(1)
 }
